@@ -4,8 +4,6 @@ Dashboard de monitoring financier en temps réel pour Bitcoin, ETF, indicateurs 
 
 ## Démarrage rapide
 
-Dézipper node_modules.zip
-
 ```bash
 npm install
 npm run dev
